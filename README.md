@@ -78,7 +78,5 @@ Obrigado por visitar o meu perfil. Espero que você tenha gostado do meu texto. 
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Lúcio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luciosilva&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciosilva&hide_progress=true)
+![Lúcio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luciosilva&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciosilva)
 
