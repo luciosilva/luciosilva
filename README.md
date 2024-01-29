@@ -26,7 +26,7 @@ Se você quiser entrar em contato comigo, pode me enviar uma mensagem pelo Linke
 - 🚀 &nbsp; Atualmente, tenho atuado como líderança técnica no projeto de construção de um ecommerce de uma das maiores empresas de telecom do Brasil.
   Atuando com o backend magento 2, definições de APIs(BFFs/estruturantes/fornecedores), alterações e definições de novas no front com VUE.js 
 - 🏎 &nbsp; Sou apaixonado por cinema, filme, séries e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+- 🎲 &nbsp; Também gosto muito de jogos de tabuleiro, cinema, filmes e séries.
 
 Obrigado por visitar o meu perfil. Espero que você tenha gostado do meu texto. 😊
 
