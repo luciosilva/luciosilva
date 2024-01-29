@@ -6,9 +6,9 @@
 
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+## 👨🏻‍💻 &nbsp;About Me
 
-# Olá, mundo! 👋
+### Olá, mundo! 👋
 
 Eu sou um desenvolvedor apaixonado por tecnologia e inovação. Meus primeiros contatos com informática foram antes da internet, com um 386, DOS e Windows 95. Eu acompanhei o início da popularização da internet, quando era preciso esperar a madrugada para não deixar a conta de telefone alta. 📞
 
@@ -51,14 +51,14 @@ Obrigado por visitar o meu perfil. Espero que você tenha gostado do meu texto. 
 ![Prisma](https://img.shields.io/badge/Prisma-333333?style=for-the-badge&logo=Prisma&style=flat)
 ![Sequelize](https://img.shields.io/badge/Sequelize-333333?style=for-the-badge&logo=Sequelize&style=flat)
 ![C#](https://img.shields.io/badge/-Csharp-333333?style=for-the-badge&logo=csharp&style=flat)
-
+![PHP](https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php&style=flat)
 ![.NET](https://img.shields.io/badge/.NET-333333?style=for-the-badge&logo=dotnet&style=flat)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-333333?style=for-the-badge&logo=.net&style=flat)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET-333333?style=for-the-badge&logo=.net&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 
-<h3>⚙️ &nbsp;Banco de dados:</h3>
+<h3>📘 &nbsp;Banco de dados:</h3>
 
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 ![SQL Server](https://img.shields.io/badge/-SQL%20server-333333?style=flat&logo=microsoft-sql-server)
@@ -67,7 +67,7 @@ Obrigado por visitar o meu perfil. Espero que você tenha gostado do meu texto. 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-<h3>⚙️ &nbsp;Cloud e devops:</h3>
+<h3>☁️ &nbsp;Cloud e devops:</h3>
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Shell Script](https://img.shields.io/badge/-Shell_Script-333333?style=flat&logo=gnu-bash)
@@ -79,3 +79,6 @@ Obrigado por visitar o meu perfil. Espero que você tenha gostado do meu texto. 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 ![Lúcio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luciosilva&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciosilva&hide_progress=true)
+
